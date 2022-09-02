@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @govindivya
 - 👀 I’m interested in web devlopement and coding
-- 🌱 I’m currently learning MERN stack
+- 🌱 I’m currently work on MEAN and  MERN stack
 - 💞️ I’m looking to collaborate on Web Projects
 - 📫 How to reach me -> mail me on govindivya8081@gmail.com
 
